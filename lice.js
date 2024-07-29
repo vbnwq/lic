@@ -1,4 +1,4 @@
 {
-  "license": "qwe",
-  "expiresAt": "2024-07-31T21:26:44Z"
+  "license": "hello",
+  "expiresAt": "2024-07-29T21:28:55Z"
 }

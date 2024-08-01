@@ -7,6 +7,10 @@
     {
       "license": "test",
       "expiresAt": "2024-08-01T15:58:27.152804Z"
+    },
+    {
+      "license": "kolp",
+      "expiresAt": "2024-08-01T16:24:09.261188Z"
     }
   ]
 }

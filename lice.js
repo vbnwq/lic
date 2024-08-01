@@ -11,6 +11,10 @@
     {
       "license": "kolp",
       "expiresAt": "2024-08-01T16:24:09.261188Z"
+    },
+    {
+      "license": "nlo",
+      "expiresAt": "2024-08-01T16:25:20.321136Z"
     }
   ]
 }
